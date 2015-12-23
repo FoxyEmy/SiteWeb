@@ -9,7 +9,7 @@
 
 	<main>
 		<section class="container">
-				<h1>Les articles du<span> Chat noir</span></h1>
+				<h1>Les articles du<span> Chaton noir</span></h1>
 				
 				<?php 
 					foreach ($art as $key => $value) {
